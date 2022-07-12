@@ -44,6 +44,7 @@
 <li>Amazon Fire TV, Roku, Samsung Smart TVs, Chromecast, and Xbox One are the top three. </li>
 <li>For watching Fubo TV or other live television services, you will need a high-speed internet connection. For Fubo TV streaming, a download speed of around 60 Mbps is recommended. This will help you prevent any buffering or error messages.</li>
 </ol>
+</div>
 		
 
-	</div>
+	
