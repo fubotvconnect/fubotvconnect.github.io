@@ -1,6 +1,7 @@
 <div class="container" style="font-family: 'Times New Roman', Times, serif; font-size: 20px; word-spacing: 5px;" align="justify">
 <meta name="msvalidate.01" content="09B7D15C6139EBA4698471C1C9CA14D4" />
 <h2>Fubo.tv/connect - Fubotv/connect - www.fubo.tv/connect</h2>
+<a href="https://connetfubotv.com/"><img src="Get-Started.png"></a>
 <p><b>Fubo.tv/connect</b> is a television streaming service. Where we may watch sports, television shows, worldwide episodes, internet series, and movies, among other live events. Apps for mobile and tablet devices are also available. There are over 100 channels available, and with the inclusion of the add-on service, we will have access to many more.</p>
 <p>Fubo tv is a live sports streaming television service based in the United States that concentrates on the NFL, MLB, NBA, NHL, Major League Soccer, and international soccer. The station also broadcasts news, network television programming, and movies.</p> <p>FuboTV began as a soccer streaming service on January 1, 2015, but by 2017, it had expanded to include all sports and had evolved into a virtual multichannel video programming distributor. To activate their account, users who are signing up for the first time must use the enter code.</p>
 <hr />
